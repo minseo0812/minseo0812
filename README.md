@@ -1,16 +1,13 @@
-## Hi there 👋
+## Tech Stack
 
-<!--
-**minseo0812/minseo0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+![frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language
+
+![language](https://skillicons.dev/icons?i=java,py)
+
+### Tools
+
+![tools](https://skillicons.dev/icons?i=git,github,vscode,vite,npm,figma,notion,vercel)
