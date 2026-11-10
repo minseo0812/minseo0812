@@ -1,3 +1,5 @@
+<img src="https://gitcawa.gitcawa.workers.dev/farm/minseo0812" width="600" alt="GitCawa farm" />
+
 ## Tech Stack
 
 ### Frontend
